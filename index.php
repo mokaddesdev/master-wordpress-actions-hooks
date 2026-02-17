@@ -1,2 +1,6 @@
 <?php
-// Silence is golden.
+/**
+ * Test Template
+ */
+?>
+<h1>Test purpache</h1>
